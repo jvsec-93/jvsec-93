@@ -1,4 +1,4 @@
-![I am](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/16c66dcb-5841-4ad4-8198-479955bbcb48)
+![I am Joao](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/93f9702e-bcb4-4401-82b2-74784c5c768a)
 
 
 # 💻 Habilidades: 
