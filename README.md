@@ -3,6 +3,7 @@
 
 # 💻 Habilidades: 
 
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0E68C?style=for-the-badge&logo=javascript&logoColor=404040)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,6 +19,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 <br>
 <br>
 <br>
@@ -25,4 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=jotaDEVe&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jotaDEVe&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaDEVe&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=jotaDEVe&icon=5&color=8)](https://visitcount.itsvg.in)
 
