@@ -1,6 +1,12 @@
+
 ![I am Joao](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/93f9702e-bcb4-4401-82b2-74784c5c768a)
 
+<div align='center'>
 
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/Portfolio-3b1b72?style=for-the-badge&logo=About.me&logoColor=white)
+</div>
 
 # 💻 Habilidades: 
 
@@ -41,5 +47,4 @@
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=jotaDEVe&icon=5&color=6)](https://visitcount.itsvg.in)
-
 
