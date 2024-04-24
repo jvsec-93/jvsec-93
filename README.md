@@ -1,6 +1,7 @@
 ![I am Joao](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/93f9702e-bcb4-4401-82b2-74784c5c768a)
 
 
+
 # 💻 Habilidades: 
 
 <div align="center">
@@ -28,9 +29,10 @@
 <br>
 
 # 📊 Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=jotaDEVe&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jotaDEVe&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaDEVe&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![jotaDEVe's Stats](https://github-readme-stats.vercel.app/api?username=jotaDEVe&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>
+![jotaDEVe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jotaDEVe&theme=midnight-purple&hide_border=true) <br>
+![jotaDEVe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaDEVe&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide=SCSS)
 
 
 
