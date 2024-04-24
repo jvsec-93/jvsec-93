@@ -1,5 +1,5 @@
+![I am](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/16c66dcb-5841-4ad4-8198-479955bbcb48)
 
-![Hello!](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/fa89dda2-6b60-4066-b840-f73243ff33ef)
 
 # 💻 Habilidades: 
 
