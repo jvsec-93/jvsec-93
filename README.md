@@ -36,7 +36,7 @@
 
 # 📊 Estatísticas:
 
-![jotaDEVe's Stats](https://github-readme-stats.vercel.app/api?username=jotaDEVe&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&theme=transparent)<br/>
+![jotaDEVe's Stats](https://github-readme-stats.vercel.app/api?username=jotaDEVe&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&)<br/>
 ![jotaDEVe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jotaDEVe&theme=midnight-purple&hide_border=true) <br>
 ![jotaDEVe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jotaDEVe&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide=SCSS)
 
