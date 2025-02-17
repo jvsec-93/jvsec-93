@@ -5,7 +5,6 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-de-faria-marques/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.jota_ve._/)
-[![](https://img.shields.io/badge/Portfolio-3b1b72?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jvdevport.online)
 </div>
 
 # 💻 Habilidades: 
