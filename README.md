@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=767676&width=435&lines=Ethical+Hacking%2C+Scripting+%26+Tips.)](https://git.io/typing-svg)
 
 <div align='center'>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-de-faria-marques/)
-</div>
 
-# 💻 Habilidades: 
+
+
+
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 <br>
 <br>
 
-# 📊 Estatísticas:
+
 
 ![jotaDEVe's Stats](https://github-readme-stats.vercel.app/api?username=jotaDEVe&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&)<br/>
 ![jotaDEVe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jotaDEVe&theme=midnight-purple&hide_border=true) <br>
