@@ -1,7 +1,8 @@
 
 ![Image](https://github.com/user-attachments/assets/abd1b277-fc09-4dd8-a629-ade88b71f9dc)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=767676&width=435&lines=Ethical+Hacking%2C+Scripting+%26+Tips.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=6000&color=858585&width=435&lines=Ethical+Hacking%2C+Scripting+%26+Tips.)](https://git.io/typing-svg)
+
 <hr>
 
 <br>
