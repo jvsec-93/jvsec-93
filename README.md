@@ -1,5 +1,5 @@
 
-![I am Joao](https://github.com/jotaDEVe/jotaDEVe/assets/134979647/93f9702e-bcb4-4401-82b2-74784c5c768a)
+![Image](https://github.com/user-attachments/assets/abd1b277-fc09-4dd8-a629-ade88b71f9dc)
 
 <div align='center'>
 
