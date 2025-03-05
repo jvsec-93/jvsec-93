@@ -2,17 +2,9 @@
 ![Image](https://github.com/user-attachments/assets/abd1b277-fc09-4dd8-a629-ade88b71f9dc)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=767676&width=435&lines=Ethical+Hacking%2C+Scripting+%26+Tips.)](https://git.io/typing-svg)
 
-<div align='center'>
+<hr>
 
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"
-/>
 
 <img 
     align="left" 
@@ -21,6 +13,15 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg"         
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"
 />
 
 <img 
@@ -49,6 +50,17 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"       
 />
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg"     
+/>
+
+          
           
           
 
