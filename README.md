@@ -1,10 +1,9 @@
 
 ![Image](https://github.com/user-attachments/assets/abd1b277-fc09-4dd8-a629-ade88b71f9dc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=767676&width=435&lines=Ethical+Hacking%2C+Scripting+%26+Tips)](https://git.io/typing-svg)
 
 <div align='center'>
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-de-faria-marques/)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.jota_ve._/)
 </div>
 
 # 💻 Habilidades: 
@@ -12,12 +11,8 @@
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0E68C?style=for-the-badge&logo=javascript&logoColor=404040)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <br>
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
