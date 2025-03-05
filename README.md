@@ -8,7 +8,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  
 />         
@@ -17,7 +17,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"              
 />
@@ -26,7 +26,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"        
 />
@@ -35,7 +35,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"        
 />
@@ -44,7 +44,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"        
 />
@@ -53,7 +53,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
@@ -62,7 +62,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
@@ -73,7 +73,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"   
 />
@@ -82,7 +82,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg"  
 />
@@ -91,7 +91,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"
 />
@@ -100,7 +100,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"
 />
