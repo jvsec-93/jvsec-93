@@ -172,17 +172,20 @@
     src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />  
 </a>
+    
 &nbsp;
 
 <a href="https://www.linkedin.com/in/joão-vitor-de-faria-marques/" target="_blank">
 <img     
     alt="CSS" 
     title="CSS"
-    width="120px" 
+    width="160px" 
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
+
 &nbsp;
+
 <a href="https://discord.com/users/533061730591440896" target="_blank">
 <img 
     alt="CSS" 
