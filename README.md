@@ -179,7 +179,7 @@
     alt="CSS" 
     title="CSS"
     width="130px" 
-    src="https://www.svgrepo.com/show/353999/linkedin.svg"
+    src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"
 />  
 </a>
 
@@ -189,7 +189,7 @@
     alt="CSS" 
     title="CSS"
     width="130px"
-    src="https://www.svgrepo.com/show/353653/discord.svg"
+    src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"
 />  
 </a>
 </div>
