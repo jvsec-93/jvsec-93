@@ -169,7 +169,7 @@
     alt="CSS" 
     title="CSS"
     width="160px" 
-    style="vertical-align: middle;
+    style="vertical-align: middle";
     src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />  
 </a>
@@ -180,7 +180,7 @@
     alt="CSS" 
     title="CSS"
     width="120px" 
-    style="vertical-align: middle;
+    style="vertical-align: middle";
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
@@ -191,7 +191,7 @@
     alt="CSS" 
     title="CSS"
     width="100px" 
-    style="vertical-align: middle;
+    style="vertical-align: middle";
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
 </a>
