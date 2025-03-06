@@ -168,7 +168,7 @@
     alt="CSS" 
     title="CSS"
     width="160px" 
-    style="padding-right: 10px;"
+    style="display: block;"
     src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />  
 </a>
@@ -179,7 +179,7 @@
     alt="CSS" 
     title="CSS"
     width="120px" 
-    style="padding-right: 10px;"
+    style="display: block;"
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
@@ -189,7 +189,7 @@
     alt="CSS" 
     title="CSS"
     width="160px"
-    style="padding-right: 10px;"
+    style="display: block;"
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
 </a>
