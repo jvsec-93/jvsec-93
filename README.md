@@ -180,7 +180,7 @@
     alt="CSS" 
     title="CSS"
     width="60px" 
-    style="margin-right: 20px" 
+    style="margin-top: 20px" 
     src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"
 />  
 </a>
