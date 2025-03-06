@@ -169,7 +169,7 @@
     alt="CSS" 
     title="CSS"
     width="130px" 
-    src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
+    src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png"
 />  
 </a>
     
