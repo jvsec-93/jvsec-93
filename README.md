@@ -163,7 +163,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=858585&width=435&lines=find+me+here%3A)](https://git.io/typing-svg)
 
-<div align="center">
+
     
 <a href="https://app.hackthebox.com/profile/2053250"><img alt="CSS" title="CSS" width="50px" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png"/></a>
 
@@ -171,7 +171,7 @@
 
 <a href="https://discord.com/users/533061730591440896"><img alt="CSS" title="CSS" width="50px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"/></a>
 
-</div>
+
 
 <hr>
 ...
