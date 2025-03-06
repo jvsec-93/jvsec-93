@@ -179,7 +179,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="120px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
