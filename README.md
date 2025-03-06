@@ -169,12 +169,12 @@
     alt="CSS" 
     title="CSS"
     width="160px" 
-    style="vertical-align: middle";
+    style="margin-top: 10px";
     src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />  
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/joão-vitor-de-faria-marques/" target="_blank">
 <img 
@@ -182,12 +182,12 @@
     alt="CSS" 
     title="CSS"
     width="120px" 
-    style="vertical-align: middle";
+    style="margin-top: 10px";
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
 
-<br><br>
+<br>
 
 <a href="https://discord.com/users/533061730591440896" target="_blank">
 <img 
@@ -195,7 +195,7 @@
     alt="CSS" 
     title="CSS"
     width="100px" 
-    style="vertical-align: middle";
+    style="margin-top: 10px";
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
 </a>
