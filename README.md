@@ -179,7 +179,7 @@
     alt="CSS" 
     title="CSS"
     width="130px" 
-    style="margin-left: 250px;"
+    style="margin-top: -40px;"
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
@@ -190,7 +190,6 @@
     alt="CSS" 
     title="CSS"
     width="130px"
-    style="margin-left: 250px;"
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
 </a>
