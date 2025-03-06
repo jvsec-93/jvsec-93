@@ -163,7 +163,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=858585&width=435&lines=find+me+here%3A)](https://git.io/typing-svg)
 
-<div align="left">
+<div align="center">
+    
 <a href="https://app.hackthebox.com/profile/2053250" target="_blank">
 <img  
     alt="CSS" 
@@ -172,17 +173,15 @@
     src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png"
 />  
 </a>
-    
 
 <a href="https://www.linkedin.com/in/joão-vitor-de-faria-marques/" target="_blank">
 <img     
     alt="CSS" 
     title="CSS"
-    width="70px" 
+    width="80px" 
     src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"
 />  
 </a>
-
 
 <a href="https://discord.com/users/533061730591440896" target="_blank">
 <img 
@@ -192,6 +191,7 @@
     src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"
 />  
 </a>
+
 </div>
 
 
