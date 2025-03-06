@@ -170,6 +170,7 @@
     alt="CSS" 
     title="CSS"
     width="50px" 
+    style="padding-right: 10px;" 
     src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png"
 />  
 </a>
@@ -179,6 +180,7 @@
     alt="CSS" 
     title="CSS"
     width="80px" 
+    style="padding-right: 10px;" 
     src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"
 />  
 </a>
@@ -188,6 +190,7 @@
     alt="CSS" 
     title="CSS"
     width="50px"
+    style="padding-right: 10px;" 
     src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"
 />  
 </a>
