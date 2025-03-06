@@ -179,6 +179,7 @@
     alt="CSS" 
     title="CSS"
     width="130px" 
+    style="margin-left: 50px;"
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
