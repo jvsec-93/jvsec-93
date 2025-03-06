@@ -167,7 +167,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="120px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
 />  
