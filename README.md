@@ -191,7 +191,7 @@
 <img 
     alt="CSS" 
     title="CSS"
-    width="100px" 
+    width="160px" 
     style="margin-top: 20px";
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
