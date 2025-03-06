@@ -179,7 +179,6 @@
     alt="CSS" 
     title="CSS"
     width="130px" 
-    style="padding-top: -40px;"
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
