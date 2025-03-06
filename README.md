@@ -171,8 +171,7 @@
     title="CSS"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png"
-/>  
+    src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png"/>  
 </a>
 
 <a href="https://www.linkedin.com/in/joão-vitor-de-faria-marques/">
@@ -180,8 +179,7 @@
     alt="CSS" 
     title="CSS"
     width="80px" 
-    src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"
-/>  
+    src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>  
 </a>
 
 <a href="https://discord.com/users/533061730591440896">
@@ -189,8 +187,7 @@
     alt="CSS" 
     title="CSS"
     width="50px"
-    src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"
-/>  
+    src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png"/>  
 </a>
 
 </div>
