@@ -165,7 +165,7 @@
 
 <div align="center">
     
-<a href="https://app.hackthebox.com/profile/2053250" target="_blank">
+<a href="https://app.hackthebox.com/profile/2053250">
 <img  
     alt="CSS" 
     title="CSS"
@@ -175,7 +175,7 @@
 />  
 </a>
 
-<a href="https://www.linkedin.com/in/joão-vitor-de-faria-marques/" target="_blank">
+<a href="https://www.linkedin.com/in/joão-vitor-de-faria-marques/">
 <img     
     alt="CSS" 
     title="CSS"
@@ -184,7 +184,7 @@
 />  
 </a>
 
-<a href="https://discord.com/users/533061730591440896" target="_blank">
+<a href="https://discord.com/users/533061730591440896">
 <img 
     alt="CSS" 
     title="CSS"
@@ -196,7 +196,7 @@
 </div>
 
 <hr>
-<p>teste</p>
+...
 
 
 
