@@ -172,11 +172,5 @@
     
 <hr>
 
-<p>...</p>
-
-
-
-<br>
-
 [![](https://visitcount.itsvg.in/api?id=jotaDEVe&icon=5&color=6)](https://visitcount.itsvg.in)
 
