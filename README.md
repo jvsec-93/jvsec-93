@@ -163,12 +163,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=858585&width=435&lines=find+me+here%3A)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="left">
 <a href="https://app.hackthebox.com/profile/2053250" target="_blank">
 <img  
     alt="CSS" 
     title="CSS"
-    width="160px" 
+    width="130px" 
     src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />  
 </a>
@@ -179,7 +179,7 @@
 <img     
     alt="CSS" 
     title="CSS"
-    width="160px" 
+    width="130px" 
     src="https://www.svgrepo.com/show/353999/linkedin.svg"
 />  
 </a>
@@ -190,7 +190,7 @@
 <img 
     alt="CSS" 
     title="CSS"
-    width="160px"
+    width="130px"
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
 </a>
