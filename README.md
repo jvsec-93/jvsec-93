@@ -173,9 +173,6 @@
 />  
 
 
-<br><br>
-
-
 <img 
     align="left" 
     alt="CSS" 
