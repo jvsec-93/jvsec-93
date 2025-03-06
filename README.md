@@ -174,11 +174,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
 />  
 
+<br>
+
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="120px" 
+    width="140px" 
     style="padding-right: 10px;" 
     src="https://cdn.brandfetch.io/id-M19oKfL/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
 />  
