@@ -190,7 +190,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/353653/discord.svg"
 />  
